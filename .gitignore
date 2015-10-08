@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+myvenv
+one.db
+/static
+.DS_Store
